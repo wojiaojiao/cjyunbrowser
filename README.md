@@ -1,4 +1,5 @@
-用QT5.7 MSVC2015编译;
-作为最原始的超级云浏览器的发布版本1.0;
-存在最大的问题是，鼠标左右键菜单都是英文还没有复制粘贴这些;
-第二个问题就是不能播放视频，然后就是窗口不能每次打开的时候是最大化
+Project site: www.cjyun.top<br>
+Browser based on WebKit kernel<br>
+running environment: windows or Linux<br>
+Please use MSVC2015 QT5.7 compiler <br>
+The most original release version of the super cloud browser 1.0<br>
